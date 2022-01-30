@@ -53,7 +53,8 @@ public class PlaylistAdapter extends RecyclerView.Adapter<PlaylistAdapter.Playli
         }
 
         public void bindItem(Song song){
-            binding.artistText.setText((CharSequence) song.getArtists()[0]);
+            binding.albumText.setText((CharSequence) song.getName());
+            binding.artistText.setText((CharSequence) song.getArtists()[0].getName());
 
             new DownLoadImageTask(binding).execute(song.getAlbum().getImages()[0].getUrl());
         }
