@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjects/ConUHacks6-v2-main/app/src/main/res/layout/activity_main.xml" value="0.21" />
+        <entry key="..\:/AndroidProjects/ConUHacks6-v2-main/app/src/main/res/layout/activity_playlists.xml" value="0.14175724637681159" />
+        <entry key="..\:/AndroidProjects/ConUHacks6-v2-main/app/src/main/res/layout/playlist_items.xml" value="0.14175724637681159" />
+        <entry key="..\:/AndroidProjects/ConUHacks6-v2-main/app/src/main/res/layout/selection_items.xml" value="0.21" />
+        <entry key="..\:/Users/zackw/AndroidStudioProjects/TempConUHacks6/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2905" />
+        <entry key="..\:/Users/zackw/AndroidStudioProjects/TempConUHacks6/app/src/main/res/drawable/ic_baseline_pause_24.xml" value="0.2905" />
+        <entry key="..\:/Users/zackw/AndroidStudioProjects/TempConUHacks6/app/src/main/res/drawable/ic_baseline_play_arrow_24.xml" value="0.2905" />
+        <entry key="..\:/Users/zackw/AndroidStudioProjects/TempConUHacks6/app/src/main/res/drawable/temp_gamer_icon.xml" value="0.103" />
+        <entry key="..\:/Users/zackw/AndroidStudioProjects/TempConUHacks6/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/zackw/AndroidStudioProjects/TempConUHacks6/app/src/main/res/layout/activity_playlists.xml" value="0.25" />
+        <entry key="..\:/Users/zackw/AndroidStudioProjects/TempConUHacks6/app/src/main/res/layout/activity_screen_slide.xml" value="0.33489583333333334" />
+        <entry key="..\:/Users/zackw/AndroidStudioProjects/TempConUHacks6/app/src/main/res/layout/album_item.xml" value="0.25" />
+        <entry key="..\:/Users/zackw/AndroidStudioProjects/TempConUHacks6/app/src/main/res/layout/fragment_playlists.xml" value="0.1" />
+        <entry key="..\:/Users/zackw/AndroidStudioProjects/TempConUHacks6/app/src/main/res/layout/fragment_screen_slide_page.xml" value="0.25" />
+        <entry key="..\:/Users/zackw/AndroidStudioProjects/TempConUHacks6/app/src/main/res/layout/playlist_item.xml" value="0.13999164229001254" />
+        <entry key="..\:/Users/zackw/AndroidStudioProjects/TempConUHacks6/app/src/main/res/layout/playlist_items.xml" value="0.33" />
+        <entry key="..\:/Users/zackw/AndroidStudioProjects/TempConUHacks6/app/src/main/res/layout/selection_items.xml" value="0.242520398912058" />
+        <entry key="..\:/Users/zackw/AndroidStudioProjects/TempConUHacks6/app/src/main/res/layout/tutorial_item.xml" value="0.1" />
+        <entry key="..\:/Users/zackw/AndroidStudioProjects/TempConUHacks6/app/src/main/res/layout/tutorial_items.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

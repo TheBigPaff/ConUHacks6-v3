@@ -1,0 +1,17 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    // repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS) new way
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS) // old way (changed it for spotify auth lib)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "TempConUHacks6"
+include ':app'

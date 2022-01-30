@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TempConUHacks6</string>
+    <string name="select">Select Playlist</string>
+    <string name="placeholder">Placeholder</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="add_playlist">Add to Spotify</string>
+</resources>
